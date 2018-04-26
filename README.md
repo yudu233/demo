@@ -1,10 +1,8 @@
 # 通过JitPack发布Android库使用 Gradle 4.1
 
-tags: jitpack gradle4.01
+[![](https://jitpack.io/v/yudu233/demo.svg)](https://jitpack.io/#yudu233/demo)
 
 ---
-
-[TOC]
 
 ### 1.创建Android项目并添加一个Library库
 ![images](http://i4.bvimg.com/574168/b45947b5430f5f76.png)
